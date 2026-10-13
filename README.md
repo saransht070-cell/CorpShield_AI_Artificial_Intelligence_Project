@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33368126/README.md)
 # CorpShield AI 🛡️
 ### Corporate Financial Statement Anomaly Surveillance & Fraud Screening System
 
